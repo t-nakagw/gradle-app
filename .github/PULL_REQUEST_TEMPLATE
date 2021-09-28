@@ -1,0 +1,10 @@
+## マージ内容
+
+## 関連チケット
+
+- REDMINE-
+
+## 確認項目
+
+- [ ] `build.gradle` の version から `-SNAPSHOT` を外している
+  - テストで安定を確認したら master マージ前に `-SNAPSHOT` を外しましょう
